@@ -1,0 +1,13 @@
+/* .well{
+    background-image: url(../img/assets/backgrounds/landing.jpg);
+   
+} */
+.jumbotron{
+    background: url('/img/assets/backgrouds/landing.jpg');
+    background-size: cover;
+}
+
+.jumbotron p{
+    font-size: 50px;
+    color: #ffffff;
+}
