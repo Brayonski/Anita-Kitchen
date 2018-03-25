@@ -58,7 +58,7 @@
 }
 
 .search {
-    padding: 50px;
+    padding:140px;
 }
 
 .subscribemail {
@@ -66,13 +66,14 @@
 }
 
 #social {
-    margin-left: 5vw;
+    margin-left: 5px;
 }
 
 .footer{
     text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #ffffff;
 }
 
-.bottom{
-    background-color: orangered;
-}
+
