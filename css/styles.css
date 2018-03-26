@@ -11,6 +11,14 @@
     padding-right: 0%;
 }
 
+.jumbotron8 {
+    background: url('/img/assets/backgrounds/landing.jpg');
+    background-size: cover;
+    margin: 0%;
+    height: 10%;
+    padding-right: 0%;
+}
+
 .jumbotron p {
     font-size: 50px;
     color: #ffffff;
@@ -40,9 +48,13 @@
     border: 2px solid black;
 }
 
-.menu {
+.container2{
     background-image: url('/img/assets/backgrounds/foodsBg.jpg');
     background-size: cover;
+    background-position: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    align-items: center;
 }
 
 .foodtext {
@@ -50,7 +62,7 @@
 }
 
 .inside {
-    padding: 200px;
+    padding: 300px;
 }
 
 .review {
@@ -58,7 +70,7 @@
 }
 
 .search {
-    padding:140px;
+    padding:135px;
 }
 
 .subscribemail {
@@ -74,6 +86,21 @@
     padding-top: 20px;
     padding-bottom: 20px;
     color: #ffffff;
+}
+
+#image1{
+    background-image: url("../img/assets/fastFood1.jpg");
+    padding-top: 65px;
+    padding-bottom: 70px;
+    background-position: center;
+
+}
+
+#image2{
+    background-image: url("../img/assets/fastFood2.jpg");
+    padding-top: 70px;
+    padding-bottom: 65px;
+    background-position: center; 
 }
 
 
