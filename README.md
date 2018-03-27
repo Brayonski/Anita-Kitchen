@@ -21,9 +21,8 @@ You need the following to view the files on your computer.
 * [HTML5](https://www.w3.org/TR/html5/) - For creating Web pages
 * [Bootstrap](http://getbootstrap.com/) - The front end framework
 * CSS3 - To create Style sheets
-* Javascript - To create front end functionality
 
 
 ## Authors
 
-* **Brian Mutai** - *Initial work* - 
+* **Brian Mutai** 
