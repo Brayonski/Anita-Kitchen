@@ -18,9 +18,9 @@ You need the following to view the files on your computer.
 
 ## Built With
 
-* [HTML5](https://www.w3.org/TR/html5/) - For creating Web pages
-* [Bootstrap](http://getbootstrap.com/) - The front end framework
-* CSS3 - To create Style sheets
+* [HTML](https://www.w3.org/TR/html5/) - For creating Web pages
+* [Bootstrap 3.3.7](http://getbootstrap.com/) - The front end framework
+* CSS - To create Style sheets
 
 
 ## Authors
