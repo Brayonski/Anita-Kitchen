@@ -65,7 +65,7 @@ text-align:right;
 }
 
 .jumbotron {
-    background: url('/img/assets/backgrounds/landing.jpg');
+    background: url('../img/assets/backgrounds/landing.jpg');
     background-size: cover;
     margin: 0%;
     height: 10%;
@@ -186,7 +186,6 @@ text-align:right;
     height:10px;
     width: 15px;
 }
-
   
 
 .sidenav {
@@ -200,7 +199,6 @@ text-align:right;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
-    margin-bottom: 100px;
 }
 
 .sidenav a {
